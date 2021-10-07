@@ -1,0 +1,2 @@
+domain extent -2.1 2.1 -3 3
+ball create position 0 0 radius 1
